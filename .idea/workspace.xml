@@ -5,84 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b6c1bfb-4597-4901-9ab2-9f90e3754dc1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_cloudformation_1_11_792.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_core_1_12_389.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_ec2_1_11_792.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_kms_1_11_792.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_s3_1_11_792.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_sns_1_11_792.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_sqs_1_12_389.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_lambda_java_core_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_lambda_java_events_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_jmespath_java_1_12_389.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_12_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_12_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_12_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_12_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_simple_2_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_2_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_2_3_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_aws_autoconfigure_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_aws_context_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_aws_core_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_aws_messaging_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_aws_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_aws_messaging_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_jcl_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_messaging_5_2_12_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__software_amazon_ion_ion_java_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HelloWorldFunction.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HelloWorldFunction.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/HelloWorldFunction.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/LambdaSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/config/SQSConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQSSender.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events/event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-cloudformation-1.11.792.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-core-1.12.389.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-ec2-1.11.792.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-kms-1.11.792.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-s3-1.11.792.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-sns-1.11.792.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-java-sdk-sqs-1.12.389.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-lambda-java-core-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/aws-lambda-java-events-3.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/commons-codec-1.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/ion-java-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/jackson-annotations-2.12.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/jackson-core-2.12.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/jackson-databind-2.12.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/jackson-dataformat-cbor-2.12.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/jmespath-java-1.12.389.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/joda-time-2.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/slf4j-api-2.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/slf4j-simple-2.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-aop-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-beans-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-boot-2.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-boot-autoconfigure-2.3.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-cloud-aws-autoconfigure-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-cloud-aws-context-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-cloud-aws-core-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-cloud-aws-messaging-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-cloud-starter-aws-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-cloud-starter-aws-messaging-2.2.6.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-context-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-core-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-expression-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-jcl-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/lib/spring-messaging-5.2.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/sqssender/LambdaSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/Function/sqssender/config/SQSConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/build/template.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/.aws-sam/temp-template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/build/classes/java/main/sqssender/LambdaSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/build/classes/java/main/sqssender/LambdaSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/LambdaSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/LambdaSender.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +119,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jhonatanacunahernandez/Documents/Develop/LambdaSenderSQS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -149,10 +129,11 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;6a4b640f5620c0be392e364b22a0cd92&quot;
+    &quot;spring.configuration.checksum&quot;: &quot;6a4b640f5620c0be392e364b22a0cd92&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Gradle.HelloWorldFunction [fatJar]">
+  <component name="RunManager" selected="AWS Lambda.[Local] LambdaSender">
     <configuration name="D:/Source Code/SqsSender/HelloWorldFunction/build.gradle [fatJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -245,8 +226,40 @@
       </sam>
       <method v="2" />
     </configuration>
+    <configuration name="[Local] LambdaSender" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="us-east-1" />
+      <option name="debugHost" value="localhost" />
+      <option name="architecture" value="x86_64" />
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="handler" value="sqssender.LambdaSender" />
+      <option name="image" value="false" />
+      <option name="logicalFunctionName" />
+      <option name="memorySize" value="128" />
+      <option name="pathMappings">
+        <list />
+      </option>
+      <option name="platform" />
+      <option name="runtime" value="java11" />
+      <option name="templateFile" />
+      <option name="timeout" value="300" />
+      <option name="useTemplate" value="false" />
+      <option name="input" value="{&#10;  &quot;author&quot;: &quot;Jhonatan Acuña&quot;,&#10;  &quot;message&quot;: &quot;Hello world from lambda&quot;&#10;}" />
+      <option name="inputIsFile" value="false" />
+      <sam>
+        <option name="additionalBuildArgs" value="" />
+        <option name="additionalLocalArgs" value="" />
+        <option name="buildInContainer" value="false" />
+        <option name="dockerNetwork" value="" />
+        <option name="skipImagePull" value="false" />
+      </sam>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="AWS Lambda.[Local] LambdaSender" />
         <item itemvalue="Gradle.HelloWorldFunction [fatJar]" />
         <item itemvalue="Gradle.D:/Source Code/SqsSender/HelloWorldFunction/build.gradle" />
         <item itemvalue="Gradle.D:/Source Code/SqsSender/HelloWorldFunction/build.gradle [fatJar]" />
@@ -266,6 +279,8 @@
       <workItem from="1675276949369" duration="117000" />
       <workItem from="1675277097256" duration="4081000" />
       <workItem from="1675281997545" duration="3198000" />
+      <workItem from="1675710597306" duration="3227000" />
+      <workItem from="1675714320237" duration="1950000" />
     </task>
     <servers />
   </component>
@@ -285,6 +300,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/LambdaSender.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/config/SQSConfig.java</url>
+          <line>23</line>
+          <properties class="sqssender.config.SQSConfig" method="amazonSQSAsyncClientBuilder">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
