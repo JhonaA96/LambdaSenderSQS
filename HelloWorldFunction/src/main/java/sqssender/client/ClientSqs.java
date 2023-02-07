@@ -1,4 +1,4 @@
-package sqssender.config;
+package sqssender.client;
 
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
@@ -9,7 +9,7 @@ import com.amazonaws.services.sqs.AmazonSQSAsyncClientBuilder;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-public class SQSConfig {
+public class ClientSqs {
 
     private String ACCES_KEY = System.getenv("ACCES_KEY");
     private String SECRET_KEY = System.getenv("SECRET_KEY");

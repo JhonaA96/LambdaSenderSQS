@@ -5,13 +5,13 @@ import org.slf4j.LoggerFactory;
 
 import com.amazonaws.services.sqs.*;
 import com.amazonaws.services.sqs.model.SendMessageRequest;
-import sqssender.config.SQSConfig;
+import sqssender.client.ClientSqs;
 
 public class SqsSender {
 
     private final Logger LOGGER = LoggerFactory.getLogger(SqsSender.class);
     private String QUEUE_URL = System.getenv("QUEUE_URL");
-    private AmazonSQS sqs = new SQSConfig().amazonSQSAsyncClientBuilder();
+    private AmazonSQS sqs = new ClientSqs().amazonSQSAsyncClientBuilder();
     private SendMessageRequest sendMessageRequest = new SendMessageRequest();
 
 
