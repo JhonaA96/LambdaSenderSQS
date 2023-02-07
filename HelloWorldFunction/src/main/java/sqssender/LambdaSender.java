@@ -21,6 +21,12 @@ public class LambdaSender implements RequestHandler<Map<String, String>, String>
     private final Logger LOGGER = LoggerFactory.getLogger(LambdaSender.class);
     private final SqsSender sender = new SqsSender();
 
+    /**
+     * This Lambda function simply receives a message and send to a SQS queue
+     * @param message The Lambda Function input
+     * @param context The Lambda execution environment context object.
+     * @return
+     */
     @Override
     public String handleRequest(Map<String, String> message, Context context) {
         try{

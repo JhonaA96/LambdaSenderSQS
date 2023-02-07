@@ -6,25 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7b6c1bfb-4597-4901-9ab2-9f90e3754dc1" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../LambdaSQSReceive" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/sqs/SqsSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/build/classes/java/main/sqssender/LambdaSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/build/libs/SQSSenderLambda.jar" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/build/libs/SQSSenderLambda.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/LambdaSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/LambdaSender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/config/SQSConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/config/SQSConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/sqs/SqsSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorldFunction/src/main/java/sqssender/sqs/SqsSender.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +252,7 @@
       <workItem from="1675710597306" duration="3227000" />
       <workItem from="1675714320237" duration="1950000" />
       <workItem from="1675772824963" duration="340000" />
-      <workItem from="1675773468164" duration="8729000" />
+      <workItem from="1675773468164" duration="9120000" />
     </task>
     <servers />
   </component>

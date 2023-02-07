@@ -14,6 +14,11 @@ public class SqsSender {
     private AmazonSQS sqs = new SQSConfig().amazonSQSAsyncClientBuilder();
     private SendMessageRequest sendMessageRequest = new SendMessageRequest();
 
+
+    /**
+     * This method is responsible to send a message to a SQS queue
+     * @param message
+     */
     public void sendToQueue(String message){
         try{
             LOGGER.info("Message received: " + message);
