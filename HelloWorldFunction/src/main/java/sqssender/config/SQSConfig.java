@@ -21,7 +21,7 @@ public class SQSConfig {
         return new QueueMessagingTemplate(amazonSQSAsyncClientBuilder());
     }
 
-    private AmazonSQSAsync amazonSQSAsyncClientBuilder() {
+    public AmazonSQSAsync amazonSQSAsyncClientBuilder() {
         return AmazonSQSAsyncClientBuilder
                 .standard()
                 .withRegion(Regions.US_EAST_1)
