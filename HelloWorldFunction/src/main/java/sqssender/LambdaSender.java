@@ -3,12 +3,8 @@ package sqssender;
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 
-import com.amazonaws.services.lambda.runtime.events.APIGatewayV2CustomAuthorizerEvent;
 import org.slf4j.*;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.cloud.aws.messaging.core.QueueMessagingTemplate;
-import org.springframework.messaging.support.MessageBuilder;
 import sqssender.sqs.SqsSender;
 
 import java.util.Map;
@@ -34,7 +30,7 @@ public class LambdaSender implements RequestHandler<Map<String, String>, String>
             sender.sendToQueue(message.get("message"));
             LOGGER.info("Finished sending message");
 
-            return "Message was sended successfully";
+            return "Process finished";
 
         }catch (Exception e){
 

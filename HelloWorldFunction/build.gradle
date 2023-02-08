@@ -21,7 +21,7 @@ dependencies {
     implementation 'org.slf4j:slf4j-simple:2.0.6'
 
     implementation 'com.amazonaws:aws-java-sdk-sqs:1.12.389'
-    implementation group: 'org.springframework.cloud', name: 'spring-cloud-starter-aws-messaging', version: '2.2.6.RELEASE'
+    implementation 'com.google.code.gson:gson:2.10.1'
 }
 
 task fatJar(type: Jar) {

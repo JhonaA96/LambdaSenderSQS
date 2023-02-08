@@ -6,9 +6,7 @@ import com.amazonaws.auth.BasicAWSCredentials;
 import com.amazonaws.regions.Regions;
 import com.amazonaws.services.sqs.AmazonSQSAsync;
 import com.amazonaws.services.sqs.AmazonSQSAsyncClientBuilder;
-import org.springframework.context.annotation.Configuration;
 
-@Configuration
 public class ClientSqs {
 
     private String ACCES_KEY = System.getenv("ACCES_KEY");
